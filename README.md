@@ -1,3 +1,12 @@
-# vesper darkish
+# vesper darkish /
 
-Tema para Visual Studio Code baseado no tema [Vesper Black](https://github.com/michaljach/vesper-black) por [Michael Jach](https://github.com/michaljach)
+Visual Studio Code dark-ish theme based on [Vesper Black](https://github.com/michaljach/vesper-black)
+
+<a href="https://marketplace.visualstudio.com/items?itemName=jach.vesper-black"><strong>Install →</strong></a>
+
+> Disclaimer: Initially made for personal use. There are still modifications to be made to cover more files/languages, it may not work for everyone.
+
+### WIP:
+- [ ] Create other flavors
+- [ ] Make available for visual studio
+
