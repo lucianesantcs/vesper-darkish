@@ -4,7 +4,7 @@
   "id": "vesper-darkish",
   "publisher": "lucianesantcs",
   "description": "",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.91.0"
   },
@@ -12,6 +12,7 @@
     "type": "git",
     "url": "https://github.com/lucianesantcs/vesper-darkish.git"
   },
+  "icon": "logo.png",
   "categories": [
     "Themes"
   ],
