@@ -1,0 +1,21 @@
+{
+  "name": "vesper-darkish",
+  "displayName": "vesper darkish",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "vesper darkish",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vesper-darkish-color-theme.json"
+      }
+    ]
+  }
+}
