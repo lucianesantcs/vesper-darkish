@@ -1,6 +1,8 @@
 {
   "name": "vesper-darkish",
   "displayName": "vesper darkish",
+  "id": "vesper-darkish",
+  "publisher": "lucianesantcs",
   "description": "",
   "version": "0.0.1",
   "engines": {
