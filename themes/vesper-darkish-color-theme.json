@@ -4,8 +4,8 @@
 	  // Editor
 	  "editor.background": "#0A0908",
 	  "editor.foreground": "#FFF6ED",
-	  "editor.selectionBackground": "#fff6ed0c",
-	  "editor.selectionHighlightBackground": "#fff6ed0c",
+	  "editor.selectionBackground": "#e5bb9123",
+	  "editor.selectionHighlightBackground": "#e286290c",
 	  "editorIndentGuide.activeBackground1": "#222",
 	  "editorIndentGuide.background1": "#0A0908",
 	  "editorLineNumber.foreground": "#505050",
