@@ -4,7 +4,7 @@
   "id": "vesper-darkish",
   "publisher": "lucianesantcs",
   "description": "Visual Studio Code dark-ish theme based on Vesper Black",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "engines": {
     "vscode": "^1.91.0"
   },
