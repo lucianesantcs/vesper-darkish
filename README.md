@@ -10,10 +10,6 @@ Visual Studio Code dark-ish theme based on [Vesper Black](https://github.com/mic
 
 > Disclaimer: Initially made for personal use. There are still modifications to be made to cover more files/languages, it may not work for everyone.
 
-### WIP:
-- [ ] Create other flavors
-- [ ] Make available for visual studio
-
 ### VSCODE Configs:
 - Extension: Apc Customize UI++ from drcika
 ```
