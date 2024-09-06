@@ -2,7 +2,8 @@
 
 Visual Studio Code dark-ish theme based on [Vesper Black](https://github.com/michaljach/vesper-black)
 
-![image](https://raw.githubusercontent.com/lucianesantcs/vesper-darkish/main/angular-code-example.png)
+![image](https://raw.githubusercontent.com/lucianesantcs/vesper-darkish/main/angular-code-example.png) 
+![image](https://raw.githubusercontent.com/lucianesantcs/vesper-darkish/main/angular-code-example-2.png)
 
 
 <a href="https://marketplace.visualstudio.com/items?itemName=jach.vesper-black"><strong>Install →</strong></a>
