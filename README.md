@@ -1,4 +1,4 @@
-# vesper darkish /
+# Vesper Darkish
 
 Visual Studio Code dark-ish theme based on [Vesper Black](https://github.com/michaljach/vesper-black)
 
@@ -14,3 +14,22 @@ Visual Studio Code dark-ish theme based on [Vesper Black](https://github.com/mic
 - [ ] Create other flavors
 - [ ] Make available for visual studio
 
+### VSCODE Configs:
+- Extension: Apc Customize UI++ from drcika
+```
+"apc.imports": [
+    {
+      "rel": "stylesheet",
+      "href": "https://fonts.googleapis.com/css?family=JetBrains+Mono"
+    }
+  ],
+  "apc.stylesheet": {
+    ".sidebar *": "font-family: 'JetBrains Mono'; font-size: 12px",
+    ".auxiliarybar *": "font-family: 'JetBrains Mono'",
+    ".panel .tabs-container": "font-family: 'JetBrains Mono'",
+    ".panel .composite-bar-container": "font-family: 'JetBrains Mono'",
+    ".titlebar-container": "font-family: 'JetBrains Mono'; font-size: 12px",
+    ".tabs *": "font-family: 'JetBrains Mono'; font-size: 12px",
+    ".statusbar *": "font-family: 'JetBrains Mono'; font-size: 12px",
+  },
+```
